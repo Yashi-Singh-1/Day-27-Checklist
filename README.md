@@ -14,7 +14,7 @@
 
 <h2>Credits</h2>
 
-<p>This project is inspired by the design from <a href="hhttps://100dayscss.com/days/27/">100 Days CSS - Day 27</a>, with modifications and enhancements to fit the challenge requirements.</p>
+<p>This project is inspired by the design from <a href="https://100dayscss.com/days/27/">100 Days CSS - Day 27</a>, with modifications and enhancements to fit the challenge requirements.</p>
 
 <h2>Prerequisites</h2>
 
